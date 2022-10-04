@@ -53,4 +53,21 @@ class MainActivity : AppCompatActivity() {
             }
         }
     }
+
+
+
+
+
+
+
+
+
+    //lint whitespacing before blocks
+//    fun doThing(){
+//        var i = 2
+//        ++i
+//        if (i == 2) {
+//            print(i)
+//        }
+//    }
 }
